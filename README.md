@@ -1,2 +1,2 @@
-# yonasgoo.github.io
+# yobyte.github.io
 Just another blog
